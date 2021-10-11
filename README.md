@@ -4,7 +4,7 @@
 
 ![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VlT0R&show_icons=true&theme=midnight-purple)      
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VlT0R&layout=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VlT0R&layout=dark)](https://github.com/VlT0R/github-readme-stats)
 
 ## Linguagens e Tecnologias Ultilizadas Neste Perfil 🖥️
 
