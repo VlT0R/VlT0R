@@ -2,7 +2,8 @@
 ### Olá! Me chamo Vitor De Lima, Seja Bem vindo!!!👋
 ![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=vitordelimaamarall@outlook.com&logoColor=white)
 
-<h1> ![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VlT0R&show_icons=true&theme=&bg_color=#1D1BE6,#F00900)        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VlT0R&layout=dark)](https://github.com/VlT0R/github-readme-stats) </h1> 
+![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VlT0R&show_icons=true&theme=&bg_color=#1D1BE6,#F00900 
+height = 100px)        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VlT0R&layout=dark)](https://github.com/VlT0R/github-readme-stats)
 
 
 
