@@ -27,6 +27,6 @@
   <img aling="center" alt="SQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
   
   </div>
-  ![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username={VlT0R}&theme=blue-green) 
+ 
 
 
