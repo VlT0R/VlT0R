@@ -1,9 +1,9 @@
 
 ### Olá! Me chamo Vitor De Lima, Seja Bem vindo!!!👋
-![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=vitordelimaamarall@outlook.com&logoColor=white)
 
 ![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VlT0R&show_icons=true&theme=&bg_color=#1D1BE6,#F00900)        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VlT0R&layout=dark)](https://github.com/VlT0R/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Linguagens e Tecnologias Ultilizadas Neste Perfil 🖥️
@@ -21,8 +21,6 @@
   <img aling="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   
   <img aling="center" alt="NodeJs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-  
-  
   
   </div>
   
