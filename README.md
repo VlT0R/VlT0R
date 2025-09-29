@@ -5,7 +5,7 @@
 
 
 
-## Linguagens e Tecnologias Ultilizadas Neste Perfil 🖥️
+## Linguagens e Tecnologias Utilizadas 🖥️
 
 <div style="display: inline_block"><br/>
   
