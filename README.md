@@ -1,10 +1,7 @@
 
 ### Olá! Me chamo Vitor De Lima, Seja Bem vindo!!!👋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-lima-842a0720b/) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/DBtnswWM)
-
-
-![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VlT0R&show_icons=true&theme=&bg_color=#1D1BE6,#F00900)        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VlT0R&layout=dark)](https://github.com/VlT0R/github-readme-stats)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitordelimadev)
 
 
 
