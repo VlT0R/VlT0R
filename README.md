@@ -4,21 +4,20 @@
 - Trabalho Com sistemas na área de Saúde e Fármacia 🧑‍💼
 - Atualmente estudante PHP, Laravel, Filament , SQLServer 📚
 
-
+### Estatísticas 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VlT0R&show_icons=true&theme=onedark" alt="Vitor's GitHub Status" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VlT0R&stats_format=bytes" alt="Top Linguagens" />
 </div>
 
 
-
-
+### Redes Sociais 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitordelimadev)
 
 
 
 
-## Linguagens e Tecnologias Utilizadas 🖥️
+## Linguagens e Tecnologias
 
 <div align="center">
   <img alt="PHP" title="PHP" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
