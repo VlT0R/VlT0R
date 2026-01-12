@@ -1,8 +1,8 @@
 
 ### Olá! Bem Vindo 
 - Me chamo Vitor De Lima, Sou Programador Junior. 👨‍💻
-- Trabalho Com sistemas na área de Saúde e Fármacia 🧑‍💼
-- Atualmente estudante PHP, Laravel, Filament , SQLServer 📚
+- Trabalho Com sistemas na área Educaional de Saúde 🧑‍💼
+- Atualmente Trabalhando com PHP, Laravel, Filament , MySQL📚
 
 ### Estatísticas 
 <div align="left">
