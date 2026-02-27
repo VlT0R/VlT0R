@@ -2,7 +2,7 @@
 ### Olá! Bem Vindo 
 - Me chamo Vitor De Lima, Sou Desenvolvedor. 👨‍💻
 - Trabalho Com sistemas na área Educacional de Saúde 🧑‍💼
-- Atualmente Trabalhando com PHP, Laravel, Filament , MySQL📚
+- Atualmente Trabalhando com PHP, Laravel, Filament , MySQL e Tall Stack📚
 
 ### Estatísticas 
 <div align="left">
